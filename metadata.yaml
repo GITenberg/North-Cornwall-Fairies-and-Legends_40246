@@ -1,0 +1,33 @@
+_repo: North-Cornwall-Fairies-and-Legends_40246
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40246-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Tregarthen, Enys
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '38723'
+    url: http://www.gutenberg.org/2009/agents/38723
+description: ''
+gutenberg_issued: '2012-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England -- Cornwall (County)'
+- !lcc 'GR'
+- !lcsh 'Legends -- England -- Cornwall (County)'
+tableOfContents: Introduction -- The adventures of a Piskey in search of his laugh
+  -- The legend of the Padstow Doombar -- The little cake-bird -- The impounded crows
+  -- The Piskeys' revenge -- The old Sky Woman -- Reefy, reefy rum -- The little horses
+  and horsemen of Padstow -- How Jan Brewer was Piskey-laden -- The small people's
+  fair -- The Piskeys who did Aunt Betsy's work -- The Piskeys who carried their beds
+  -- The fairy whirlwind.
+title: North Cornwall Fairies and Legends
+url: http://www.gutenberg.org/ebooks/40246
